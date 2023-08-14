@@ -1,0 +1,1 @@
+This repository hosts a user-friendly GUI application designed to streamline course scheduling and administration. Users can create their academic timetables by selecting courses, while administrators can manage courses, semesters, and student schedules. Powered by Apache Derby, a relational database system, the application ensures data integrity and reliability.
