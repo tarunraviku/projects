@@ -1,2 +1,2 @@
 # projects
-random projects lol
+Interesting projects from the years.
